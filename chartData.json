@@ -1,0 +1,502 @@
+[
+    {
+        "Number": "1",
+        "Title": "Cruel Summer",
+        "Artist": "Taylor Swift"
+    },
+    {
+        "Number": "2",
+        "Title": "Paint The Town Red",
+        "Artist": "Doja Cat"
+    },
+    {
+        "Number": "3",
+        "Title": "Is It Over Now? (Taylor's Version) [From The Vault]",
+        "Artist": "Taylor Swift"
+    },
+    {
+        "Number": "4",
+        "Title": "Snooze",
+        "Artist": "SZA"
+    },
+    {
+        "Number": "5",
+        "Title": "Standing Next To You",
+        "Artist": "Jung Kook"
+    },
+    {
+        "Number": "6",
+        "Title": "I Remember Everything",
+        "Artist": "Zach Bryan Featuring Kacey Musgraves"
+    },
+    {
+        "Number": "7",
+        "Title": "Now And Then",
+        "Artist": "The Beatles"
+    },
+    {
+        "Number": "8",
+        "Title": "Fast Car",
+        "Artist": "Luke Combs"
+    },
+    {
+        "Number": "9",
+        "Title": "Thinkin' Bout Me",
+        "Artist": "Morgan Wallen"
+    },
+    {
+        "Number": "10",
+        "Title": "Last Night",
+        "Artist": "Morgan Wallen"
+    },
+    {
+        "Number": "11",
+        "Title": "Greedy",
+        "Artist": "Tate McRae"
+    },
+    {
+        "Number": "12",
+        "Title": "Now That We Don't Talk (Taylor's Version) [From The Vault]",
+        "Artist": "Taylor Swift"
+    },
+    {
+        "Number": "13",
+        "Title": "Fukumean",
+        "Artist": "Gunna"
+    },
+    {
+        "Number": "14",
+        "Title": "Rich Baby Daddy",
+        "Artist": "Drake Featuring Sexyy Red & SZA"
+    },
+    {
+        "Number": "15",
+        "Title": "Need A Favor",
+        "Artist": "Jelly Roll"
+    },
+    {
+        "Number": "16",
+        "Title": "Dance The Night",
+        "Artist": "Dua Lipa"
+    },
+    {
+        "Number": "17",
+        "Title": "Vampire",
+        "Artist": "Olivia Rodrigo"
+    },
+    {
+        "Number": "18",
+        "Title": "Water",
+        "Artist": "Tyla"
+    },
+    {
+        "Number": "19",
+        "Title": "Monaco",
+        "Artist": "Bad Bunny"
+    },
+    {
+        "Number": "20",
+        "Title": "Agora Hills",
+        "Artist": "Doja Cat"
+    },
+    {
+        "Number": "21",
+        "Title": "IDGAF",
+        "Artist": "Drake Featuring Yeat"
+    },
+    {
+        "Number": "22",
+        "Title": "Save Me",
+        "Artist": "Jelly Roll With Lainey Wilson"
+    },
+    {
+        "Number": "23",
+        "Title": "Flowers",
+        "Artist": "Miley Cyrus"
+    },
+    {
+        "Number": "24",
+        "Title": "First Person Shooter",
+        "Artist": "Drake Featuring J. Cole"
+    },
+    {
+        "Number": "25",
+        "Title": "Used To Be Young",
+        "Artist": "Miley Cyrus"
+    },
+    {
+        "Number": "26",
+        "Title": "Say Don't Go (Taylor's Version) [From The Vault]",
+        "Artist": "Taylor Swift"
+    },
+    {
+        "Number": "27",
+        "Title": "Lil Boo Thang",
+        "Artist": "Paul Russell"
+    },
+    {
+        "Number": "28",
+        "Title": "What Was I Made For?",
+        "Artist": "Billie Eilish"
+    },
+    {
+        "Number": "29",
+        "Title": "White Horse",
+        "Artist": "Chris Stapleton"
+    },
+    {
+        "Number": "30",
+        "Title": "Good Good",
+        "Artist": "Usher, Summer Walker & 21 Savage"
+    },
+    {
+        "Number": "31",
+        "Title": "Slut! (Taylor's Version) [From The Vault]",
+        "Artist": "Taylor Swift"
+    },
+    {
+        "Number": "32",
+        "Title": "Cobra",
+        "Artist": "Megan Thee Stallion"
+    },
+    {
+        "Number": "33",
+        "Title": "My Love Mine All Mine",
+        "Artist": "Mitski"
+    },
+    {
+        "Number": "34",
+        "Title": "What It Is (Block Boy)",
+        "Artist": "Doechii Featuring Kodak Black"
+    },
+    {
+        "Number": "35",
+        "Title": "Dial Drunk",
+        "Artist": "Noah Kahan With Post Malone"
+    },
+    {
+        "Number": "36",
+        "Title": "Daylight",
+        "Artist": "David Kushner"
+    },
+    {
+        "Number": "37",
+        "Title": "Stick Season",
+        "Artist": "Noah Kahan"
+    },
+    {
+        "Number": "38",
+        "Title": "Kill Bill",
+        "Artist": "SZA"
+    },
+    {
+        "Number": "39",
+        "Title": "Barbie World",
+        "Artist": "Nicki Minaj & Ice Spice With Aqua"
+    },
+    {
+        "Number": "40",
+        "Title": "I Know ?",
+        "Artist": "Travis Scott"
+    },
+    {
+        "Number": "41",
+        "Title": "Bad Idea Right?",
+        "Artist": "Olivia Rodrigo"
+    },
+    {
+        "Number": "42",
+        "Title": "Wild Ones",
+        "Artist": "Jessie Murph & Jelly Roll"
+    },
+    {
+        "Number": "43",
+        "Title": "Lose Control",
+        "Artist": "Teddy Swims"
+    },
+    {
+        "Number": "44",
+        "Title": "Harley Quinn",
+        "Artist": "Fuerza Regida & Marshmello"
+    },
+    {
+        "Number": "45",
+        "Title": "Style (Taylor's Version)",
+        "Artist": "Taylor Swift"
+    },
+    {
+        "Number": "46",
+        "Title": "Pretty Little Poison",
+        "Artist": "Warren Zeiders"
+    },
+    {
+        "Number": "47",
+        "Title": "Bad Blood (Taylor's Version)",
+        "Artist": "Taylor Swift"
+    },
+    {
+        "Number": "48",
+        "Title": "World On Fire",
+        "Artist": "Nate Smith"
+    },
+    {
+        "Number": "49",
+        "Title": "Seven",
+        "Artist": "Jung Kook Featuring Latto"
+    },
+    {
+        "Number": "50",
+        "Title": "Suburban Legends (Taylor's Version) [From The Vault]",
+        "Artist": "Taylor Swift"
+    },
+    {
+        "Number": "51",
+        "Title": "On My Mama",
+        "Artist": "Victoria Monet"
+    },
+    {
+        "Number": "52",
+        "Title": "Try That In A Small Town",
+        "Artist": "Jason Aldean"
+    },
+    {
+        "Number": "53",
+        "Title": "Strangers",
+        "Artist": "Kenya Grace"
+    },
+    {
+        "Number": "54",
+        "Title": "Virginia Beach",
+        "Artist": "Drake"
+    },
+    {
+        "Number": "55",
+        "Title": "500lbs",
+        "Artist": "Lil Tecca"
+    },
+    {
+        "Number": "56",
+        "Title": "Can't Catch Me Now",
+        "Artist": "Olivia Rodrigo"
+    },
+    {
+        "Number": "57",
+        "Title": "Perro Negro",
+        "Artist": "Bad Bunny & Feid"
+    },
+    {
+        "Number": "58",
+        "Title": "3D",
+        "Artist": "Jung Kook & Jack Harlow"
+    },
+    {
+        "Number": "59",
+        "Title": "Blank Space (Taylor's Version)",
+        "Artist": "Taylor Swift"
+    },
+    {
+        "Number": "60",
+        "Title": "Get Him Back!",
+        "Artist": "Olivia Rodrigo"
+    },
+    {
+        "Number": "61",
+        "Title": "The Painter",
+        "Artist": "Cody Johnson"
+    },
+    {
+        "Number": "62",
+        "Title": "Great Gatsby",
+        "Artist": "Rod Wave"
+    },
+    {
+        "Number": "63",
+        "Title": "Single Soon",
+        "Artist": "Selena Gomez"
+    },
+    {
+        "Number": "64",
+        "Title": "Bongos",
+        "Artist": "Cardi B & Megan Thee Stallion"
+    },
+    {
+        "Number": "65",
+        "Title": "Watermelon Moonshine",
+        "Artist": "Lainey Wilson"
+    },
+    {
+        "Number": "66",
+        "Title": "Qlona",
+        "Artist": "Karol G & Peso Pluma"
+    },
+    {
+        "Number": "67",
+        "Title": "Can't Have Mine",
+        "Artist": "Dylan Scott"
+    },
+    {
+        "Number": "68",
+        "Title": "Lady Gaga",
+        "Artist": "Peso Pluma, Gabito Ballesteros & Junior H"
+    },
+    {
+        "Number": "69",
+        "Title": "Everything I Love",
+        "Artist": "Morgan Wallen"
+    },
+    {
+        "Number": "70",
+        "Title": "Slime You Out",
+        "Artist": "Drake Featuring SZA"
+    },
+    {
+        "Number": "71",
+        "Title": "Rich Men North Of Richmond",
+        "Artist": "Oliver Anthony Music"
+    },
+    {
+        "Number": "72",
+        "Title": "Wildest Dreams (Taylor's Version)",
+        "Artist": "Taylor Swift"
+    },
+    {
+        "Number": "73",
+        "Title": "Out Of The Woods (Taylor's Version)",
+        "Artist": "Taylor Swift"
+    },
+    {
+        "Number": "74",
+        "Title": "Truck Bed",
+        "Artist": "HARDY"
+    },
+    {
+        "Number": "75",
+        "Title": "Meltdown",
+        "Artist": "Travis Scott Featuring Drake"
+    },
+    {
+        "Number": "76",
+        "Title": "Hey Driver",
+        "Artist": "Zach Bryan Featuring The War And Treaty"
+    },
+    {
+        "Number": "77",
+        "Title": "Welcome To New York (Taylor's Version)",
+        "Artist": "Taylor Swift"
+    },
+    {
+        "Number": "78",
+        "Title": "Que Onda",
+        "Artist": "Calle 24 x Chino Pacas x Fuerza Regida"
+    },
+    {
+        "Number": "79",
+        "Title": "Segun Quien",
+        "Artist": "Maluma & Carin Leon"
+    },
+    {
+        "Number": "80",
+        "Title": "Burn It Down",
+        "Artist": "Parker McCollum"
+    },
+    {
+        "Number": "81",
+        "Title": "Stars Like Confetti",
+        "Artist": "Dustin Lynch"
+    },
+    {
+        "Number": "82",
+        "Title": "LaLa",
+        "Artist": "Myke Towers"
+    },
+    {
+        "Number": "83",
+        "Title": "Shake It Off (Taylor's Version)",
+        "Artist": "Taylor Swift"
+    },
+    {
+        "Number": "84",
+        "Title": "SkeeYee",
+        "Artist": "Sexyy Red"
+    },
+    {
+        "Number": "85",
+        "Title": "God Gave Me A Girl",
+        "Artist": "Russell Dickerson"
+    },
+    {
+        "Number": "86",
+        "Title": "Standing Room Only",
+        "Artist": "Tim McGraw"
+    },
+    {
+        "Number": "87",
+        "Title": "Fina",
+        "Artist": "Bad Bunny & Young Miko"
+    },
+    {
+        "Number": "88",
+        "Title": "El Amor de Su Vida",
+        "Artist": "Grupo Frontera & Grupo Firme"
+    },
+    {
+        "Number": "89",
+        "Title": "All You Had To Do Was Stay (Taylor's Version)",
+        "Artist": "Taylor Swift"
+    },
+    {
+        "Number": "90",
+        "Title": "Turks & Caicos",
+        "Artist": "Rod Wave Featuring 21 Savage"
+    },
+    {
+        "Number": "91",
+        "Title": "Mi Ex Tenia Razon",
+        "Artist": "Karol G"
+    },
+    {
+        "Number": "92",
+        "Title": "New Romantics (Taylor's Version)",
+        "Artist": "Taylor Swift"
+    },
+    {
+        "Number": "93",
+        "Title": "Un Preview",
+        "Artist": "Bad Bunny"
+    },
+    {
+        "Number": "94",
+        "Title": "Too Much",
+        "Artist": "The Kid LAROI, Jung Kook & Central Cee"
+    },
+    {
+        "Number": "95",
+        "Title": "Save Me The Trouble",
+        "Artist": "Dan + Shay"
+    },
+    {
+        "Number": "96",
+        "Title": "Clean (Taylor's Version)",
+        "Artist": "Taylor Swift"
+    },
+    {
+        "Number": "97",
+        "Title": "Bleed",
+        "Artist": "The Kid LAROI"
+    },
+    {
+        "Number": "98",
+        "Title": "But I Got A Beer In My Hand",
+        "Artist": "Luke Bryan"
+    },
+    {
+        "Number": "99",
+        "Title": "We Don't Fight Anymore",
+        "Artist": "Carly Pearce Featuring Chris Stapleton"
+    },
+    {
+        "Number": "100",
+        "Title": "Sarah's Place",
+        "Artist": "Zach Bryan Featuring Noah Kahan"
+    }
+]
